@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Proyecto BTI 2026"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Laboratorio"
+	}
+}
